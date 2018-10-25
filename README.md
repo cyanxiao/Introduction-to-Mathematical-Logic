@@ -1,5 +1,5 @@
 # 哈工大《数理逻辑引论（修订版）》非官方参考答案
-哈尔滨工业大学出版社李涛、张岩、刘峰主编，任世军主审的《数理逻辑引论（修订版）》非官方参考答案。
+哈尔滨工业大学出版社李涛、张岩、刘峰主编，任世军主审的《数理逻辑引论（修订版）》非官方参考答案。<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 ___
 ## 目录
 * [第 2 章  命题逻辑的基本概念](https://github.com/RealTonyShaw/Introduction-to-Mathematical-Logic#%E7%AC%AC-2-%E7%AB%A0--%E5%91%BD%E9%A2%98%E9%80%BB%E8%BE%91%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5)
